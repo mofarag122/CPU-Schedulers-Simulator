@@ -1,0 +1,106 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "20226101_20226079_20226002_20226151_S4_6996bd7f"
+        },
+        {
+            "type": "java",
+            "name": "ProcessTimeline",
+            "request": "launch",
+            "mainClass": "ProcessTimeline",
+            "projectName": "assi_d65d0ba1"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "assi_d65d0ba1"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "FirstJavaFx_310c911c"
+        },
+        {
+            "type": "java",
+            "name": "ProcessTimelineGUI",
+            "request": "launch",
+            "mainClass": "ProcessTimelineGUI",
+            "projectName": "FirstJavaFx_310c911c"
+        },
+        {
+            "type": "java",
+            "name": "SchedulerVisualizer",
+            "request": "launch",
+            "mainClass": "src.SchedulerVisualizer",
+            "projectName": "FirstJavaFx_310c911c"
+        },
+        {
+            "type": "java",
+            "name": "ProcessVisualization",
+            "request": "launch",
+            "mainClass": "src.ProcessVisualization",
+            "projectName": "FirstJavaFx_310c911c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "src.Main",
+            "projectName": "FirstJavaFx_310c911c"
+        },
+        {
+            "type": "java",
+            "name": "ConcurrentSchedulerVisualization",
+            "request": "launch",
+            "mainClass": "ConcurrentSchedulerVisualization",
+            "projectName": "FirstJavaFx_310c911c"
+        },
+        {
+            "type": "java",
+            "name": "CPUSchedulingTimeline",
+            "request": "launch",
+            "mainClass": "CPUSchedulingTimeline",
+            "projectName": "FirstJavaFx_310c911c"
+        },
+        {
+            "type": "java",
+            "name": "CPUSimulationSwing",
+            "request": "launch",
+            "mainClass": "CPUSimulationSwing",
+            "projectName": "FirstJavaFx_310c911c"
+        },
+        {
+            "type": "java",
+            "name": "CPUSchedulerTestGUI",
+            "request": "launch",
+            "mainClass": "CPUSchedulerTestGUI",
+            "projectName": "FirstJavaFx_310c911c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SquarePanel",
+            "request": "launch",
+            "mainClass": "SquarePanel",
+            "projectName": "FirstJavaFx_310c911c",
+            "vmArgs": "--module-path \"C:/Users/pc/Downloads/openjfx-23.0.1_windows-x64_bin-sdk/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
