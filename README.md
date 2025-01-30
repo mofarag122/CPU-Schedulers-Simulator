@@ -1,6 +1,7 @@
 # CPU-Schedulers-Simulator
 
 Java program to simulate the following schedulers:
+
 *Non-preemptive Priority Scheduling using context switching
 
 *Non-Preemptive Shortest- Job First (SJF)
